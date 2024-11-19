@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>orphan</name>
+  <classpath>C:\app\TestEnv\product\21c\dbhomeXE\jdbc\lib\ojdbc8.jar</classpath>
+  <driver>oracle.jdbc.driver.OracleDriver</driver>
+  <username>c##tala_yaseen</username>
+  <password>123456</password>
+  <url>jdbc:oracle:thin:@localhost:1521:xe</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
